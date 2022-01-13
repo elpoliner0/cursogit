@@ -1,5 +1,7 @@
 Hola, mi nombre es Freddy Andres Lozano Olier, tengo 29 años y vivo en Quibdó.
 
+Me gusta comer pescado, frutas y verduras.
+
 Soy ingeniero de sonido y apasionado por las industrias creativas
 
 Este es mi primer ejercicio en el curso de git con Fredy Vega
